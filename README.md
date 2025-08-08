@@ -101,3 +101,5 @@ If you find a bug or want to add a new feature, feel free to fork this repositor
 - 👨‍💻 **Developer**: Vishal Narsinh
 - 🌐 **GitHub**: [@VishalNarsinh](https://github.com/VishalNarsinh)
 - 📧 **Email**: [vishalnarsinh@gmail.com](mailto:vishalnarsinh@gmail.com)
+
+- making changes
